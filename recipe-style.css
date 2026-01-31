@@ -1,0 +1,56 @@
+
+
+
+
+.container-all{
+    margin: auto;
+    width: 800px;
+    box-sizing: border-box;
+    border-color: black;
+    border-style: solid;
+    height: auto;
+    padding: 20px;
+    font-family: "Courier New",  Arial, sans-serif;
+}
+a {
+   border: solid, rgb(125, 100, 100);
+   color: rgb(31, 41, 41);
+   padding: 15px 50px;
+   font-size: larger;
+   background-color: bisque;
+   margin-top: 20px ;
+}
+
+h1{
+    color: cadetblue;
+    text-align: center;
+    font-family: "Courier New",  Arial, sans-serif;
+    margin: 60px 60px;
+
+}
+h2{
+    margin-top: 40px;
+}
+.recipe-foto{
+    
+    background-color: rgb(203, 228, 220);
+   
+}
+
+.ingredients{
+box-sizing: border-box;
+height: auto;
+background-color: rgb(218, 227, 225);
+padding: 10px;
+
+
+}
+
+.steps{
+    box-sizing: border-box;
+    height: auto;
+    background-color: rgb(210, 190, 190);
+    padding: 10px;
+    margin-top: 20px;
+    
+}
